@@ -49,4 +49,4 @@ dots.forEach((dot, index) => {
         dots[index].classList.add("active")
     })
 })
-// setInterval(moveToNextSlide, 2000)
+setInterval(moveToNextSlide, 2000)
